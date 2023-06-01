@@ -1,0 +1,7 @@
+Summary of Git commands used:
+git clone https://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@github.com/anicetodinis/alx-pre_course.git
+git add 0x01-git
+git commit -m 'add dir 0x01-git'
+git push
+git pull origin main
+git checkout main
